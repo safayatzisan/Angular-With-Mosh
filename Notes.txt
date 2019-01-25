@@ -1,3 +1,14 @@
 1. Install Node
+
 2. Open command prompt and type "node --version", if you see the version number, then
 node is successfully installed in the machine.
+
+3. Install npm and angular package. command : "npm install -g @angular/cli"
+
+4. After installation type command to confirm : "ng --version"
+
+5. Go to destination folder and oppen cmd/powersheel there. type command : "ng new AppName" there and it will make a new angular project in that folder. 
+
+6. Start visual studio code. We can start visual studio code from powershell/terminal itself. For that, we need to set path for visual studio code. For that, we need to start vs code. type command : "shift+control+p". It will open command pallate. Then type "install code command". and install it. But newer version of VS code already creates a path in windows. so, now we don't have the feature to manually install it from command pallate. this feature is already there. To launch VS code from terminal, type "code .".
+
+7. 
