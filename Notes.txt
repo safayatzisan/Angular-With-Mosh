@@ -1,0 +1,3 @@
+1. Install Node
+2. Open command prompt and type "node --version", if you see the version number, then
+node is successfully installed in the machine.
